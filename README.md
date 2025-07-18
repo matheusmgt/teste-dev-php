@@ -23,6 +23,10 @@
 ## Após preencher os dados para conexão do banco, rodar migration 
 - php artisan migrate
 
+## Após isso, instaciar o server
+- php artisan serve (laravel)
+- npm run dev (vite)
+
 ## Imagens do Projeto (Login)
 ![alt text for screen readers](/etapas/1-login.PNG "Tela de Login").
 
