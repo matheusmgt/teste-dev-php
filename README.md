@@ -12,7 +12,7 @@
 - composer update
 - npm install
 
-## Preencher os dados de conexão do MySQL
+## Preencher os dados de conexão do MySQL (.env)
 - DB_CONNECTION=mysql
 - DB_HOST=
 - DB_PORT=
