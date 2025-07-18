@@ -24,8 +24,8 @@
 - php artisan migrate
 
 ## Após isso, instaciar o server
-- php artisan serve (laravel)
-- npm run dev (vite)
+- php artisan serve 
+- npm run dev
 
 ## Imagens do Projeto (Login)
 ![alt text for screen readers](/etapas/1-login.PNG "Tela de Login").
